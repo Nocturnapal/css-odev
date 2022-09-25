@@ -1,0 +1,56 @@
+.baslik li{
+    list-style-type: none;
+    display:inline;
+    position: relative;
+    margin:9.5px;
+}
+ 
+.baslik2 li{
+    margin-inline-start: 700px;
+    margin-inline-end: 700px;
+ }
+
+ h1{
+    color:deeppink;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2{
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h4{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.baslik5 img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.baslik5 li{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+    text-align: left;
+}
+
+.bas{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+
+.bas2{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+ 
